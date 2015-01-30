@@ -9,4 +9,6 @@ h1 {
 #title{
   color: rgb(255,20,147);
   font-family: Impact, sans-serif;
+  text-align: center;
+  font-style: italic;
 }
